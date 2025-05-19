@@ -23,10 +23,11 @@
 
 <div align=left>
 
-| <img width="200px" src="https://avatars.githubusercontent.com/u/114901417?v=4"/> | <img width="200px" src="https://avatars.githubusercontent.com/u/91969458?v=4"/> |
-| :------------------------------------------------------------------------------: | :------------------------------------------------------------------------------: |
-|                     [박신영](https://github.com/ParkSY0919)                      |                     [이자민](https://github.com/jaminleee)                      |
-|                               iOS                                |                               iOS                                |
+| <img width="200px" src="https://avatars.githubusercontent.com/u/114901417?v=4"/> | <img width="200px" src="https://avatars.githubusercontent.com/u/91969458?v=4"/> | <img width="200px" src="https://avatars.githubusercontent.com/u/125115284?v=4"/> |
+| :------------------------------------------------------------------------------: | :------------------------------------------------------------------------------: | :------------------------------------------------------------------------------: |
+|                     [박신영](https://github.com/ParkSY0919)                      |                     [이자민](https://github.com/jaminleee)                      |                     [박민서]([https://github.com/jaminleee](https://github.com/FpRaArNkK))                      |
+|                               iOS                                |                               iOS                                | iOS & 서버 |
+
 
 </div>
 
